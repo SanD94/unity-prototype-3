@@ -80,3 +80,6 @@ InitTestScene*.unity
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,unity
+
+# Custom gitignore files
+Assets/Challenge 3/Instructions/*
